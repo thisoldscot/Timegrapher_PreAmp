@@ -1,0 +1,24 @@
+ERC report (2026-06-14T23:51:10, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(72.39 mm, 123.19 mm): Symbol #FLG26 Pin 1 [Power output, Line]
+    @(199.39 mm, 144.78 mm): Symbol #FLG29 Pin 1 [Power output, Line]
+[pin_to_pin]: Pins of type Output and Power output are connected
+    ; error
+    @(160.02 mm, 105.41 mm): Symbol U1 Pin 7 [OUTB, Output, Line]
+    @(199.39 mm, 144.78 mm): Symbol #FLG29 Pin 1 [Power output, Line]
+[multiple_net_names]: Both VREF and +5V are attached to the same items; VREF will be used in the netlist
+    ; warning
+    @(199.39 mm, 144.78 mm): Global Label 'VREF'
+    @(66.04 mm, 97.79 mm): Symbol #PWR02 Pin 1 [Power input, Line]
+
+ ** ERC messages: 3  Errors 2  Warnings 1
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

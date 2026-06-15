@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Preamp")(type "KiCad")(uri "${KIPRJMOD}/Preamp.kicad_sym")(options "")(descr "Custom symbols for the Timegrapher piezo preamp (MCP602)"))
+)
