@@ -4,15 +4,15 @@
 
 ## About the Project
 
-| ![Timegrapher PreAmp](https://github.com/fabemit/Timegrapher_PreAmp/blob/main/images/Timegrapher_PreAmp.png) |
+| ![Timegrapher PreAmp](https://github.com/thisoldscot/Timegrapher_PreAmp/blob/main/images/Timegrapher_PreAmp.png) |
 | :-----------------------------------------------------------------------------------------------------------: |
 
 Timegrapher PreAmp is the **through-hole** piezo preamplifier board for the
 Timegrapher Studio wristwatch timegrapher. It conditions the faint escapement
 signal from the piezo pickup and feeds the I²S ADC on the
-[carrier HAT](https://github.com/fabemit/Timegrapher_Hat). This is the
+[carrier HAT](https://github.com/thisoldscot/Timegrapher_Hat). This is the
 hand-solderable variant; an SMD version lives in
-[Timegrapher_PreAmpSMD](https://github.com/fabemit/Timegrapher_PreAmpSMD).
+[Timegrapher_PreAmpSMD](https://github.com/thisoldscot/Timegrapher_PreAmpSMD).
 Designed in KiCad. See [DESIGN.md](DESIGN.md) and [BOM.md](BOM.md).
 
 ---
@@ -39,13 +39,13 @@ Timegrapher Studio is split across several repositories:
 
 | Repository | Contents |
 | --- | --- |
-| [Timegrapher_OS](https://github.com/fabemit/Timegrapher_OS) | Desktop application |
-| [Timegrapher_App](https://github.com/fabemit/Timegrapher_App) | Mobile companion app |
-| [Timegrapher_Firmware](https://github.com/fabemit/Timegrapher_Firmware) | ESP32 device firmware |
-| [Timegrapher_Hat](https://github.com/fabemit/Timegrapher_Hat) | Carrier HAT (PCB) |
-| [Timegrapher_PreAmp](https://github.com/fabemit/Timegrapher_PreAmp) | Piezo preamp (through-hole) (this repo) |
-| [Timegrapher_PreAmpSMD](https://github.com/fabemit/Timegrapher_PreAmpSMD) | Piezo preamp (SMD) |
-| [Timegrapher_Stand](https://github.com/fabemit/Timegrapher_Stand) | 3D-printed stand & fixtures |
+| [Timegrapher_OS](https://github.com/thisoldscot/Timegrapher_OS) | Desktop application |
+| [Timegrapher_App](https://github.com/thisoldscot/Timegrapher_App) | Mobile companion app |
+| [Timegrapher_Firmware](https://github.com/thisoldscot/Timegrapher_Firmware) | ESP32 device firmware |
+| [Timegrapher_Hat](https://github.com/thisoldscot/Timegrapher_Hat) | Carrier HAT (PCB) |
+| [Timegrapher_PreAmp](https://github.com/thisoldscot/Timegrapher_PreAmp) | Piezo preamp (through-hole) (this repo) |
+| [Timegrapher_PreAmpSMD](https://github.com/thisoldscot/Timegrapher_PreAmpSMD) | Piezo preamp (SMD) |
+| [Timegrapher_Stand](https://github.com/thisoldscot/Timegrapher_Stand) | 3D-printed stand & fixtures |
 
 ---
 
@@ -83,7 +83,7 @@ We encourage community collaboration to make this project even better.
 
 ## About ThisOldScot
 
-<img src="https://github.com/fabemit/Timegrapher_PreAmp/blob/main/images/ThisOldScot_Logo.png" width="200" alt="ThisOldScot logo">
+<img src="https://github.com/thisoldscot/Timegrapher_PreAmp/blob/main/images/ThisOldScot_Logo.png" width="200" alt="ThisOldScot logo">
 
 [ThisOldScot](https://thisoldscot.com) enjoys designing and making electronic
 products and projects for enthusiasts, from hobbyists to professionals — boards,
